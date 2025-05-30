@@ -1,4 +1,5 @@
 # postgres_sql
+``` bash
 Microsoft Windows [Version 10.0.26100.4061]
 (c) Microsoft Corporation. All rights reserved.
 
@@ -872,3 +873,4 @@ university_db=> SELECT * FROM enrollments WHERE student_id = 1;
 
 
 university_db=>
+```
